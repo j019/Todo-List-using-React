@@ -1,5 +1,9 @@
 # Todo-List-using-React
-Todo List Created using Full Stack Development while using React in frontend and Nodejs and Express in Backend
+Todo List Created using Full Stack Development
+
+### `FrontEnd : ReactJs`
+
+### `BackEnd : NodeJs , Express`
 
 # Getting Started with Create React App
 
